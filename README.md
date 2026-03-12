@@ -1,20 +1,19 @@
 ## Hi 👋, I'm Natnael Agenagnew
 
-🚀 **Software Engineer**
-
 I’m a software engineer passionate about building scalable systems and modern web applications. I enjoy designing and developing products from **idea → architecture → development → deployment**, with a strong focus on clean, maintainable code and real-world impact.
 
 ---
 
-### 💼 What I'm Currently Working On
+### What I'm Currently Working On
 
 I’m currently working as a **Full Stack Developer** on a **microservices-based system** built with **Go (Fiber framework)** using **Clean Architecture**, with **Next.js** powering the frontend.
 
 ---
 
-### 📚 What I'm Currently Learning
+### What I'm Currently Learning
 
-I’m deepening my knowledge of **distributed systems and microservices** by building a large production-style project using technologies like **JSON communication, RPC, gRPC, RabbitMQ, PostgreSQL, and MongoDB**.
+I'm currently building a production-style microservices system in Go with multiple service communication layers including JSON APIs, RPC, gRPC, and RabbitMQ.  
+The architecture uses both PostgreSQL and MongoDB for database.
 
 The project is open source:
 🔗 https://github.com/nati3514/go-auth-broker-microservices
