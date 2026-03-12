@@ -20,7 +20,7 @@ The project is open source:
 
 ---
 
-### 🚀 Products I've Built
+### Products I've Built
 
 **TapServe**
 A SaaS platform used daily by many businesses. I'm proud that real users rely on this product for their operations.
