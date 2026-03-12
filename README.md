@@ -29,4 +29,4 @@ A SaaS platform used daily by many businesses. I'm proud that real users rely on
 **Dimket Promotion**
 A Social Media Marketing (SMM) platform designed for Ethiopian users, allowing them to purchase social media services such as followers, likes, and views for platforms like TikTok, Instagram, and Facebook.
 The platform currently has **50K+ users and continues to grow every day**.
-*(Telegram bot link will be added soon.)*
+*[(Dimket Promotion.)](https://web.telegram.org/a/#8315493585)*
