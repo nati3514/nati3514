@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi 👋, I'm Natnael Agenagnew
 
-<!--
-**nati3514/nati3514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer**
 
-Here are some ideas to get you started:
+I’m a software engineer passionate about building scalable systems and modern web applications. I enjoy designing and developing products from **idea → architecture → development → deployment**, with a strong focus on clean, maintainable code and real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 What I'm Currently Working On
+
+I’m currently working as a **Full Stack Developer** on a **microservices-based system** built with **Go (Fiber framework)** using **Clean Architecture**, with **Next.js** powering the frontend.
+
+---
+
+### 📚 What I'm Currently Learning
+
+I’m deepening my knowledge of **distributed systems and microservices** by building a large production-style project using technologies like **JSON communication, RPC, gRPC, RabbitMQ, PostgreSQL, and MongoDB**.
+
+The project is open source:
+🔗 https://github.com/nati3514/go-auth-broker-microservices
+
+---
+
+### 🚀 Products I've Built
+
+**TapServe**
+A SaaS platform used daily by many businesses. I'm proud that real users rely on this product for their operations.
+🔗 https://www.tapserve.et/
+
+**Dimket Promotion**
+A Social Media Marketing (SMM) platform designed for Ethiopian users, allowing them to purchase social media services such as followers, likes, and views for platforms like TikTok, Instagram, and Facebook.
+The platform currently has **50K+ users and continues to grow every day**.
+*(Telegram bot link will be added soon.)*
