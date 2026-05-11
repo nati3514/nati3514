@@ -13,7 +13,7 @@ I’m currently working as a **Full Stack Developer** on a **microservices-based
 ### What I'm Currently Learning
 
 I'm currently building a production-style microservices system in Go with multiple service communication layers including JSON APIs, RPC, gRPC, and RabbitMQ.  
-The architecture uses both PostgreSQL and MongoDB for database
+The architecture uses both PostgreSQL and MongoDB for database.
 
 The project is open source:
 🔗 https://github.com/nati3514/go-auth-broker-microservices
